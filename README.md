@@ -11,7 +11,7 @@ The SMS Bomber Bot can send a specified number of SMS messages to a target phone
 To use the SMS Bomber Bot, follow these steps:
 
 1. Send the command `.sms <target_phone_number>` to the channel.
-   - Example: `.sms 5051234567`
+   - Example: `.sms 5000000000`
 
 2. Wait for the bot to send the specified number of SMS messages to the target phone number.
 
