@@ -71,4 +71,4 @@ async def on_message(message):
     else:
         pass
   
-client.run("YOUR DİSCORD BOT TOKEN")
+client.run(TOKEN)
